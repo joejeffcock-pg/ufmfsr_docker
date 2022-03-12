@@ -1,0 +1,13 @@
+- git:
+    local-name: turtlebot3_simulations
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: melodic-devel
+- git:
+    local-name: turtlebot3_manipulation
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_manipulation.git
+- git:
+    local-name: turtlebot3_manipulation_simulations
+    uri: https://github.com/ROBOTIS-GIT/turtlebot3_manipulation_simulations.git
+- git:
+    local-name: open_manipulator_dependencies
+    uri: https://github.com/ROBOTIS-GIT/open_manipulator_dependencies.git

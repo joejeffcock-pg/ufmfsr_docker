@@ -39,3 +39,6 @@ RUN apt update && \
 	ros-melodic-turtlebot3 \
 	ros-melodic-turtlebot3-msgs \
 	ros-melodic-dynamixel-sdk
+
+# other requirements
+RUN apt update && apt install -y python-wstool
