@@ -1,1 +1,1 @@
-docker build -t turtlebot3 - < Dockerfile
+docker build -t joejeffcockpg/ufmfsr:turtlebot3 - < Dockerfile

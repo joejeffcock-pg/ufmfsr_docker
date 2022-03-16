@@ -1,1 +1,1 @@
-docker build -t turtlebot3-nvidia - < Dockerfile.nvidia
+docker build -t joejeffcockpg/ufmfsr:turtlebot3-nvidia - < Dockerfile.nvidia
